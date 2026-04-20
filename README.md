@@ -48,6 +48,5 @@ A clean and structured open-source reference for mathematical symbols and LaTeX 
 | Equivalent | ⇔ | `\Leftrightarrow` |
 | Square Root | √ | `\sqrt{x}` |
 | Dot Product | · | `\cdot` |
-| Norm | ‖x‖ | `\|x\|` |
+| Norm | ‖x‖ | `\lVert x \rVert` |
 | Argmin | arg min | `\arg\min` |
-
