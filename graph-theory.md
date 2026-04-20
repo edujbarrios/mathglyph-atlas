@@ -21,7 +21,7 @@
 | Complete Graph | Kn | `K_n` |
 | Bipartite Graph | Km,n | `K_{m,n}` |
 | Tree | T | `T` |
-| Spanning Tree | T\_s | `T_s` |
+| Spanning Tree | Tₛ | `T_s` |
 | Distance | d(u,v) | `d(u,v)` |
 | Diameter | diam(G) | `\mathrm{diam}(G)` |
 | Adjacency Matrix | A | `A` |

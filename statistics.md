@@ -14,7 +14,7 @@
 | Correlation | ρ | `\rho` |
 | Mean | μ | `\mu` |
 | Sample Mean | x̄ | `\bar{x}` |
-| Median | x~ | `\tilde{x}` |
+| Median | x̃ | `\tilde{x}` |
 | Maximum Likelihood Estimate | θ̂ | `\hat{\theta}` |
 | Argmax | argmax | `\arg\max_{\theta}` |
 | Argmin | argmin | `\arg\min_{\theta}` |
