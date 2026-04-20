@@ -17,7 +17,7 @@
 | Symmetric Difference | △ | `\triangle` |
 | Cartesian Product | × | `A \times B` |
 | Power Set | P(A) | `\mathcal{P}(A)` |
-| Cardinality | |A| | `\lvert A \rvert` |
+| Cardinality | ∣A∣ | `\lvert A \rvert` |
 | Natural Numbers | ℕ | `\mathbb{N}` |
 | Integers | ℤ | `\mathbb{Z}` |
 | Rational Numbers | ℚ | `\mathbb{Q}` |

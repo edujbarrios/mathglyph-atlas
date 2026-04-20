@@ -7,8 +7,8 @@
 | Graph | G=(V,E) | `G=(V,E)` |
 | Vertex Set | V | `V` |
 | Edge Set | E | `E` |
-| Number of Vertices | |V| | `\lvert V \rvert` |
-| Number of Edges | |E| | `\lvert E \rvert` |
+| Number of Vertices | ∣V∣ | `\lvert V \rvert` |
+| Number of Edges | ∣E∣ | `\lvert E \rvert` |
 | Edge Between u and v | {u,v} | `\{u,v\}` |
 | Directed Edge | (u,v) | `(u,v)` |
 | Degree of Vertex | deg(v) | `\deg(v)` |

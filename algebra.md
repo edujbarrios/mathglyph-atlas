@@ -16,7 +16,7 @@
 | Fraction | a/b | `\frac{a}{b}` |
 | Power | xⁿ | `x^n` |
 | Subscript | aᵢ | `a_i` |
-| Absolute Value | |x| | `\lvert x \rvert` |
+| Absolute Value | ∣x∣ | `\lvert x \rvert` |
 | Norm | ‖x‖ | `\lVert x \rVert` |
 | Square Root | √ | `\sqrt{x}` |
 | n-th Root | ⁿ√x | `\sqrt[n]{x}` |
