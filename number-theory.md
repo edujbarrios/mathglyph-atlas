@@ -4,8 +4,8 @@
 
 | Name | Rendered Symbol | LaTeX Code |
 |---|---|---|
-| Divides | a\|b | `a \mid b` |
-| Does Not Divide | a∤b | `a \nmid b` |
+| Divides | a ∣ b | `a \mid b` |
+| Does Not Divide | a ∤ b | `a \nmid b` |
 | Congruent Modulo n | a≡b (mod n) | `a \equiv b \pmod{n}` |
 | Not Congruent Modulo n | a≢b (mod n) | `a \not\equiv b \pmod{n}` |
 | Greatest Common Divisor | gcd(a,b) | `\gcd(a,b)` |

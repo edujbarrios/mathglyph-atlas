@@ -6,7 +6,7 @@
 |---|---|---|
 | Probability | P(A) | `P(A)` |
 | Conditional Probability | P(A\|B) | `P(A\mid B)` |
-| Independence | ⫫ | `\perp\!\!\!\perp` |
+| Independence | ⫫ | `\mathrel{\perp\!\!\!\perp}` |
 | Expected Value | E[X] | `\mathbb{E}[X]` |
 | Variance | Var(X) | `\mathrm{Var}(X)` |
 | Standard Deviation | σ | `\sigma` |

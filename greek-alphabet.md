@@ -36,10 +36,10 @@
 | Angle | θ | `\theta` |
 | Eigenvalue | λ | `\lambda` |
 | Learning Rate / Small Constant | η | `\eta` |
-| Mean (sometimes) | μ | `\mu` |
+| Mean | μ | `\mu` |
 | Standard Deviation | σ | `\sigma` |
 | Variance / Potential Function | φ | `\phi` |
 | Big-Oh Reference Symbol | Ω | `\Omega` |
 | Error Term | ε | `\epsilon` |
-| Summation Index (sometimes) | κ | `\kappa` |
-| Probability Density (sometimes) | ρ | `\rho` |
+| Summation Index | κ | `\kappa` |
+| Probability Density | ρ | `\rho` |
